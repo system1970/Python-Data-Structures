@@ -123,3 +123,7 @@ tree.printPostorder(tree)
 print()
 print("Inorder: ")
 tree.printInorder(tree) 
+
+
+
+
