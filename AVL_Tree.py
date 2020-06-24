@@ -4,6 +4,7 @@ class AVL(object):
         self.RightChild = None
         self.LeftChild = None
         self.Height = 1
+        
     def insert(self, root, NodeValue): 
         if not root: 
             return AVL(NodeValue) 
